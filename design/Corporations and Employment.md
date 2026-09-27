@@ -13,3 +13,5 @@ Possible industries: mining/metallurgy, manufacturing, energy/chemicals, freight
 Additional divisions currently share umbrella research. Truly independent subsidiaries remain a later question. Starter-kit issuance needs a persistent entitlement record so repeated creation/cancellation does not duplicate equipment.
 
 See [Science](Research%20and%20Science.md), [Defense](Defense%20Industry.md), and [Open Questions](../planning/Open%20Questions.md).
+
+For large-world deployment, see [Cluster and Force Scaling](../architecture/Cluster%20and%20Force%20Scaling.md): a company can have local force bindings on several instances, but each instance has finite force capacity.

@@ -19,3 +19,5 @@ Potential records: Player, Corporation, Employment, Shift, Contract, Warehouse, 
 Boundaries to preserve: one authority for money and settlement; actual inventory for goods; corporate research separate from personal employment; supplied equipment separate from ownership rights.
 
 Before code, experiment with force isolation, no-hand-crafting enforcement, platform cargo access, and destination-safe spawning. See [Flow Sketches](Flow%20Sketches.md) and [Roadmap](../planning/Roadmap.md).
+
+For multi-server exploration, see [Cluster and Force Scaling](Cluster%20and%20Force%20Scaling.md). Global company IDs must not be identical to local force indices.

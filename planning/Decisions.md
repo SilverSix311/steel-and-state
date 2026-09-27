@@ -15,6 +15,8 @@ Source: project planning conversation, September 24–26, 2026. These notes are 
 
 ## Latest user proposals carried forward
 
+- Explore planetary servers and large corporation counts. Global corporation IDs with local force bindings and Clusterio are recommendations under investigation, not selected infrastructure. See [Cluster and Force Scaling](../architecture/Cluster%20and%20Force%20Scaling.md).
+
 - Start at a large walkable central trade station rather than Nauvis.
 - Government trade awards Government Science Packs. Conversion recipes use these as the only material input and output conventional colored science.
 - Conversion is intentionally slower than commercial science supply; expanded R&D supports more processing.
@@ -24,7 +26,7 @@ Source: project planning conversation, September 24–26, 2026. These notes are 
 ## Assistant suggestions, not settled rules
 
 - One lab plus a converter and power equipment is a complete starting R&D package.
-- One Factorio force per corporation; work access may temporarily follow an employer force.
+- Global corporation identities with a local force per corporation only on instances where needed; each save has a 64-force engine limit including built-ins. Work access may temporarily follow an employer force.
 - Supplied labs rather than free passive research; common and specialty research initially share normal queue behavior.
 - Deposited stock, escrow, bounded government demand, issued-equipment reservations, and explicit acceptance states.
 - Dedicated station surface and scripted transit are candidates, not selected implementations.

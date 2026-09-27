@@ -24,6 +24,7 @@ A shared station. Public work. Independent corporations. Factories making everyt
 - [Decisions](planning/Decisions.md): user direction versus proposed details.
 - [Open Questions](planning/Open%20Questions.md): choices we have deliberately left open.
 - [Roadmap](planning/Roadmap.md): small experiments and the first complete loop.
+- [Cluster and Force Scaling](architecture/Cluster%20and%20Force%20Scaling.md): multi-server exploration and engine limits.
 - [Modules](architecture/Modules.md) and [Flow Sketches](architecture/Flow%20Sketches.md): conceptual stubs.
 - [Dependencies and Sources](research/Dependencies%20and%20Sources.md): dated research, not an approved modpack.
 - [Idea Template](planning/Idea%20Template.md): copy to explore a new idea.
