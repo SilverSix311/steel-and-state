@@ -1,11 +1,12 @@
 # Direction and Decisions
 
-Source: project planning conversation, September 24–26, 2026. These notes are not a promise that every proposed mechanic is feasible. Current user instructions take precedence.
+Source: project planning conversation, September 24–27, 2026. These notes are not a promise that every proposed mechanic is feasible. Current user instructions take precedence.
 
 ## Established user direction
 
 - Require Factorio: Space Age; consider additional planetary mods.
 - Government/corporate multiplayer economy with clocked work, wages, company founding, and separate corporate research.
+- Non-tradable startup loans help finance initial corporate contracts (confirmed 2026-09-27). Repayment terms, eligibility, and borrower identity remain open. See [Corporations and Employment](../design/Corporations%20and%20Employment.md).
 - Support multiple configurable Play Types and a host/admin interface.
 - No hand crafting; government factory-building jobs supply buildings.
 - Physical planetary and government station warehouses, cargo delivery/pickup, and government passenger taxis.
@@ -33,6 +34,7 @@ Source: project planning conversation, September 24–26, 2026. These notes are 
 
 ## Superseded alternatives
 
+- A founding voucher/grant was suggested but the user selected a repayable startup loan instead. Tradable bonds are not the chosen founding mechanism.
 - Stock-backed government science redemption and a central conversion queue are superseded by the user's recipe approach. Government packs intentionally synthesize colored packs rather than withdrawing existing colored stock.
 - Pure production points are background exploration, not the current research model.
 - Base-game-only or Space Exploration as an alternative foundation is out of current scope.

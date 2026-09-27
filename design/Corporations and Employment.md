@@ -12,6 +12,16 @@ Possible industries: mining/metallurgy, manufacturing, energy/chemicals, freight
 
 Additional divisions currently share umbrella research. Truly independent subsidiaries remain a later question. Starter-kit issuance needs a persistent entitlement record so repeated creation/cancellation does not duplicate equipment.
 
+## Startup loans
+
+**Confirmed 2026-09-27:** use a non-tradable startup loan to help finance initial corporate contracts. This is repayable financing, not a founding voucher, grant, or tradable bond. The loan entitlement/agreement cannot be sold or transferred to another player or corporation.
+
+Proposed delivery: government approves financing for an initial charter and industry package, then applies the advance directly to eligible purchases rather than issuing a resellable loan item. Actual buildings still come from physical stock. Eligible costs and the treatment of purchased assets remain open; non-tradability of the loan does not automatically prohibit ordinary sales of the business's products.
+
+Proposed repayment: a small share of corporate sales automatically reduces the balance, with voluntary early repayment. This is a suggestion, not an agreed rule. Interest, grace period, repayment rate, and default behavior are undecided.
+
+Before implementation, decide whether the borrower is the founder or the corporation, who qualifies, how co-founders participate, whether debt follows an ownership change, and what happens on closure. Recreating a corporation must not silently erase debt or create repeated startup entitlements; the exact recovery policy is still open.
+
 See [Science](Research%20and%20Science.md), [Defense](Defense%20Industry.md), and [Open Questions](../planning/Open%20Questions.md).
 
 For large-world deployment, see [Cluster and Force Scaling](../architecture/Cluster%20and%20Force%20Scaling.md): a company can have local force bindings on several instances, but each instance has finite force capacity.
