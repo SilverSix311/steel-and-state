@@ -8,6 +8,8 @@ tags: [steel-and-state, index]
 
 A shared station. Public work. Independent corporations. Factories making everything. Goods and science moving through a player economy.
 
+**[Read the illustrated feature overview](FEATURES.md)** — the full player-facing vision, industries, research, and design philosophy.
+
 ## Explore the design
 
 - [Vision and Player Journey](design/Vision%20and%20Player%20Journey.md)

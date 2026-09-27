@@ -4,7 +4,7 @@ A planning vault for a multiplayer Factorio: Space Age mod collection about gove
 
 **Design stage.** This repository contains notes and pseudocode, not a playable mod. Rules, numbers, dependencies, and release packaging are deliberately loose.
 
-Start at [Home](Home.md). Current direction is tracked in [Decisions](planning/Decisions.md); unresolved choices live in [Open Questions](planning/Open%20Questions.md).
+Read the [illustrated feature overview](FEATURES.md) for the player-facing vision, or start at [Home](Home.md) for the planning vault. Current direction is tracked in [Decisions](planning/Decisions.md); unresolved choices live in [Open Questions](planning/Open%20Questions.md).
 
 ## Open in Obsidian
 
