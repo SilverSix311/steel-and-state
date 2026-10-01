@@ -12,6 +12,8 @@ A shared station. Public work. Independent corporations. Factories making everyt
 
 ## Explore the design
 
+- [First Corporation Walkthrough](design/First%20Corporation%20Walkthrough.md): startup loan, supplied site, first sale, and first research.
+
 - [Vision and Player Journey](design/Vision%20and%20Player%20Journey.md)
 - [Government and Contracts](design/Government%20and%20Contracts.md)
 - [Corporations and Employment](design/Corporations%20and%20Employment.md)

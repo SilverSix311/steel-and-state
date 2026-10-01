@@ -7,8 +7,8 @@ No dates or implementation commitments. Current activity is design only.
 - [x] Create linked planning vault and local repository.
 - [x] Preserve historical brainstorm and reconcile latest science direction.
 - [ ] Draft one government construction offer and complete equipment manifest.
-- [ ] Draft one corporate starter/R&D package, without final quantities.
-- [ ] Trace its first research and first sale to another corporation.
+- [x] Draft one corporate starter/R&D package, without final quantities: [First Corporation Walkthrough](../design/First%20Corporation%20Walkthrough.md).
+- [x] Trace its first research and first sale to another corporation in the walkthrough; still a paper design, not tested gameplay.
 - [ ] Sketch station arrivals, contracts, and departure flow.
 
 ## Later: small feasibility experiments, when implementation is requested

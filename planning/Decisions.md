@@ -1,6 +1,6 @@
 # Direction and Decisions
 
-Source: project planning conversation, September 24–27, 2026. These notes are not a promise that every proposed mechanic is feasible. Current user instructions take precedence.
+Source: project planning conversation, September 24–October 1, 2026. These notes are not a promise that every proposed mechanic is feasible. Current user instructions take precedence.
 
 ## Established user direction
 
@@ -15,6 +15,8 @@ Source: project planning conversation, September 24–27, 2026. These notes are 
 - Work locally in Git for now; prepare loose docs and pseudocode that can be opened as an Obsidian vault. GitHub publishing is deferred.
 
 ## Latest user proposals carried forward
+
+- On 2026-10-01 the user approved drafting a first-corporation walkthrough using the proposed small Nauvis iron-processing example. This authorizes the design exercise, not final loan terms, package quantities, or an exclusive starter industry. See [First Corporation Walkthrough](../design/First%20Corporation%20Walkthrough.md).
 
 - Explore planetary servers and large corporation counts. Global corporation IDs with local force bindings and Clusterio are recommendations under investigation, not selected infrastructure. See [Cluster and Force Scaling](../architecture/Cluster%20and%20Force%20Scaling.md).
 
