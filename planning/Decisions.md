@@ -12,7 +12,7 @@ Source: project planning conversation, September 24–October 1, 2026. These not
 - Physical planetary and government station warehouses, cargo delivery/pickup, and government passenger taxis.
 - Defense contracting for shipping hazards and planetary hostiles.
 - A science-manufacturing industry that corporations can add, importing or producing ingredients.
-- Work locally in Git for now; prepare loose docs and pseudocode that can be opened as an Obsidian vault. GitHub publishing is deferred.
+- Maintain loose docs and pseudocode in Git, openable as an Obsidian vault. On 2026-10-01 the user authorized a public GitHub repository: [SilverSix311/steel-and-state](https://github.com/SilverSix311/steel-and-state). This publishes design work, not a playable release.
 
 ## Latest user proposals carried forward
 

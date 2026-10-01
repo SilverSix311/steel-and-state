@@ -14,7 +14,7 @@ Local folder: `/home/vile/Projects/Mods/Factorio/steel-and-state`
 
 ## Local Git workflow
 
-The repository starts on `main`. Review changes with `git status` and `git diff`, then commit selected files with a descriptive message. No GitHub remote is configured. Account recovery, authentication, repository visibility, licensing, and publishing can be handled later. Do not store credentials or tokens here.
+The public repository is [SilverSix311/steel-and-state](https://github.com/SilverSix311/steel-and-state). The local `main` branch tracks `origin/main`. Review changes with `git status` and `git diff`, then commit selected files with a descriptive message and push when intended. Do not store credentials or tokens here. Project licensing remains undecided.
 
 ## Contents
 
